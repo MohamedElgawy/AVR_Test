@@ -1,5 +1,5 @@
 /*****************************************************************/
-/*                      Author : Moamen Mamdouh Thabet           */
+/*                      Author : Moamen Mamdouh                  */
 /*                      Date   : 2/4/2023                        */
 /*                      Module : TIMER_config                    */
 /*                      Layer  : MCAL                            */
